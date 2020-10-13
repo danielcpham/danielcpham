@@ -6,6 +6,11 @@ Thanks for stopping by! I'm a native Houstonian, a full-time software developer,
 
 > "I’m telling you, Molotov cocktails work. Anytime I had a problem and I threw a Molotov cocktail, boom! Right away, I had a different problem." - Jason Mendoza
 
+Recently Obsessed With:
+
+- 🍿The Invisible Man
+- 🎹 everything i wanted - Billie Eilish
+
 <!-- Add commitment to social justice -->
 
 <!-- TODO: Add a "How I work" describing my work style -->
