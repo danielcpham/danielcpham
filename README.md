@@ -8,8 +8,9 @@ Thanks for stopping by! I'm a native Houstonian, a full-time software developer,
 
 Recently Obsessed With:
 
-- 🍿The Invisible Man
-- 🎹 everything i wanted - Billie Eilish
+- [Schitt's Creek](https://www.netflix.com/title/80036165)
+- 🎹 Nights Like This - Loud Luxury, CID
+- [Dank Mono](https://gumroad.com/l/dank-mono)
 
 <!-- Add commitment to social justice -->
 
