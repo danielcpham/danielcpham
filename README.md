@@ -9,11 +9,11 @@ I graduated from Rice University with a B.A. in Computer Science and Cognitive S
 
 > "Guys, a word of advice, speaking as a former baby..." - Andy "Nard Dog" Bernard
 
-Recently Obsessed With:
+Obsessed With (as of June 06):
 
-- [Schitt's Creek](https://www.netflix.com/title/80036165)
-- 🎹 Weak - SWV
-- [Dank Mono](https://gumroad.com/l/dank-mono)
+- 📺 [Pose](https://fxnow.fxnetworks.com/shows/pose)
+- 🎹 [All I Need - Jacob Collier, Mahalia, Ty Dolla $ign](https://www.youtube.com/watch?v=ue6g7SPSyAM)
+- 👾 [Vim](https://danielmiessler.com/study/vim/)
 
 <!-- Add commitment to social justice -->
 
